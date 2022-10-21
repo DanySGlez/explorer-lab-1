@@ -42,3 +42,8 @@ Você pode visualizar o layout do projeto através [desse LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+
+---
+
+Feito com ♥ by Daniel Salomón :wave:
